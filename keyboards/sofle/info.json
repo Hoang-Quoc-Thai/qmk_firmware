@@ -33,13 +33,13 @@
         "pin": "D3"
     },
     "rgblight": {
-        "led_count": 72,
-        "split_count": [36, 36],
+        "led_count": 74,
+        "split_count": [37, 37],
         "sleep": true
     },
     "rgb_matrix": {
         "driver": "ws2812",
-        "split_count": [36, 36],
+        "split_count": [37, 37],
         "sleep": true,
         "layout": [
             {"x": 96, "y": 40, "flags": 8},
